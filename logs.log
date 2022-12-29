@@ -1,0 +1,213 @@
+2022-11-05 23:02:05,903 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-05 23:07:45,137 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-05 23:35:47,362 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-05 23:40:38,080 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-05 23:49:34,638 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-05 23:55:37,302 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-07 13:16:31,693 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-07 13:23:47,570 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-07 13:36:36,009 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-07 13:40:25,643 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-08 21:42:38,695 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-08 21:54:28,518 +0100 [main] DEBUG (Logger.java:82) - suiteXmlPath: "/Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml"
+2022-11-08 21:54:29,261 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.setUpClass(org.testng.ITestContext)[pri:0, instance:null] 1354578460
+2022-11-08 21:54:29,266 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:54:29,282 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:54:29,282 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:54:29,282 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:54:29,304 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodSetUp(java.lang.String)[pri:0, instance:null] 969670457
+2022-11-08 21:54:29,304 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:54:29,305 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:54:29,305 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:54:29,305 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:54:29,310 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodTearDown()[pri:0, instance:null] 1141160738
+2022-11-08 21:54:29,311 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:54:29,313 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:54:29,314 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:54:29,315 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:54:29,371 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.negativeLoginTest(java.util.Map)[pri:2, instance:com.dice.LoginTest@4b8ee4de] 507667608
+2022-11-08 21:54:29,372 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.positiveLogInTest()[pri:1, instance:com.dice.LoginTest@4b8ee4de] -1821781700
+2022-11-08 21:54:29,372 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:54:29,373 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:54:29,374 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:54:29,374 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:54:29,404 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.setUpClass(org.testng.ITestContext)[pri:0, instance:null] 1354578460
+2022-11-08 21:54:29,405 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:54:29,406 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:54:29,406 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:54:29,406 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:54:29,413 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodSetUp(java.lang.String)[pri:0, instance:null] 969670457
+2022-11-08 21:54:29,414 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:54:29,414 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:54:29,414 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:54:29,414 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:54:29,415 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodTearDown()[pri:0, instance:null] 1141160738
+2022-11-08 21:54:29,416 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:54:29,416 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:54:29,416 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:54:29,416 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:54:29,428 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.positiveLogInTest()[pri:1, instance:com.dice.LoginTest@1c7696c6] 1683063588
+2022-11-08 21:54:29,429 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:54:29,430 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:54:29,430 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:54:29,431 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:54:29,447 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-08 21:56:00,197 +0100 [main] DEBUG (Logger.java:82) - suiteXmlPath: "/Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml"
+2022-11-08 21:56:00,867 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.setUpClass(org.testng.ITestContext)[pri:0, instance:null] 1354578460
+2022-11-08 21:56:00,871 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:00,887 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:00,888 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:00,889 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:00,919 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodSetUp(java.lang.String)[pri:0, instance:null] 969670457
+2022-11-08 21:56:00,920 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:00,923 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:00,924 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:00,924 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:00,928 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodTearDown()[pri:0, instance:null] 1141160738
+2022-11-08 21:56:00,929 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:00,929 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:00,929 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:00,929 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:00,973 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.negativeLoginTest(java.util.Map)[pri:2, instance:com.dice.LoginTest@82de64a] -622762492
+2022-11-08 21:56:00,974 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.positiveLogInTest()[pri:1, instance:com.dice.LoginTest@82de64a] 1342755496
+2022-11-08 21:56:00,974 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:00,978 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:00,978 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:00,978 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:01,026 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.setUpClass(org.testng.ITestContext)[pri:0, instance:null] 1354578460
+2022-11-08 21:56:01,027 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:01,028 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:01,028 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:01,028 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:01,035 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodSetUp(java.lang.String)[pri:0, instance:null] 969670457
+2022-11-08 21:56:01,036 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:01,036 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:01,036 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:01,037 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:01,039 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodTearDown()[pri:0, instance:null] 1141160738
+2022-11-08 21:56:01,041 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:01,042 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:01,043 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:01,044 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:01,055 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.positiveLogInTest()[pri:1, instance:com.dice.LoginTest@e350b40] 1443887006
+2022-11-08 21:56:01,058 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:01,058 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:01,058 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:01,059 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:01,072 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-08 21:56:44,902 +0100 [main] DEBUG (Logger.java:82) - suiteXmlPath: "/Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml"
+2022-11-08 21:56:45,659 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.setUpClass(org.testng.ITestContext)[pri:0, instance:null] 1354578460
+2022-11-08 21:56:45,663 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:45,680 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:45,681 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:45,681 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:45,703 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodSetUp(java.lang.String)[pri:0, instance:null] 969670457
+2022-11-08 21:56:45,703 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:45,706 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:45,708 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:45,709 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:45,712 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodTearDown()[pri:0, instance:null] 1141160738
+2022-11-08 21:56:45,713 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:45,713 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:45,714 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:45,715 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:45,759 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.negativeLoginTest(java.util.Map)[pri:2, instance:com.dice.LoginTest@82de64a] -622762492
+2022-11-08 21:56:45,760 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.positiveLogInTest()[pri:1, instance:com.dice.LoginTest@82de64a] 1342755496
+2022-11-08 21:56:45,760 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:45,766 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:45,766 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:45,767 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:45,805 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.setUpClass(org.testng.ITestContext)[pri:0, instance:null] 1354578460
+2022-11-08 21:56:45,806 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:45,807 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:45,807 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:45,807 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:45,813 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodSetUp(java.lang.String)[pri:0, instance:null] 969670457
+2022-11-08 21:56:45,814 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:45,814 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:45,814 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:45,814 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:45,816 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodTearDown()[pri:0, instance:null] 1141160738
+2022-11-08 21:56:45,818 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:45,819 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:45,819 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:45,820 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:45,830 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.positiveLogInTest()[pri:1, instance:com.dice.LoginTest@f09733f] 1457807261
+2022-11-08 21:56:45,832 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 21:56:45,833 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 21:56:45,833 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 21:56:45,833 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 21:56:45,848 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
+2022-11-08 22:03:56,631 +0100 [main] DEBUG (Logger.java:82) - suiteXmlPath: "/Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml"
+2022-11-08 22:03:57,294 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.setUpClass(org.testng.ITestContext)[pri:0, instance:null] 1354578460
+2022-11-08 22:03:57,298 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 22:03:57,315 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 22:03:57,315 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 22:03:57,316 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 22:03:57,330 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodSetUp(java.lang.String)[pri:0, instance:null] 969670457
+2022-11-08 22:03:57,330 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 22:03:57,331 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 22:03:57,331 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 22:03:57,331 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 22:03:57,332 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodTearDown()[pri:0, instance:null] 1141160738
+2022-11-08 22:03:57,333 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 22:03:57,333 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 22:03:57,333 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 22:03:57,333 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 22:03:57,366 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.negativeLoginTest(java.util.Map)[pri:2, instance:com.dice.LoginTest@534a5a98] 637393490
+2022-11-08 22:03:57,368 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.positiveLogInTest()[pri:1, instance:com.dice.LoginTest@534a5a98] -1692055818
+2022-11-08 22:03:57,368 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 22:03:57,375 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 22:03:57,376 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 22:03:57,376 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 22:03:57,425 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.setUpClass(org.testng.ITestContext)[pri:0, instance:null] 1354578460
+2022-11-08 22:03:57,426 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 22:03:57,427 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 22:03:57,428 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 22:03:57,428 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 22:03:57,434 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodSetUp(java.lang.String)[pri:0, instance:null] 969670457
+2022-11-08 22:03:57,434 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 22:03:57,435 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 22:03:57,435 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 22:03:57,435 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 22:03:57,436 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE BaseTest.methodTearDown()[pri:0, instance:null] 1141160738
+2022-11-08 22:03:57,437 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 22:03:57,437 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 22:03:57,437 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 22:03:57,440 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 22:03:57,453 +0100 [main] DEBUG (Logger.java:82) - [Graph] ADDING NODE LoginTest.positiveLogInTest()[pri:1, instance:com.dice.LoginTest@2e8c1c9b] 1986463993
+2022-11-08 22:03:57,453 +0100 [main] DEBUG (Logger.java:82) - [Graph] ================ SORTING
+2022-11-08 22:03:57,454 +0100 [main] DEBUG (Logger.java:82) - [Graph] =============== DONE SORTING
+2022-11-08 22:03:57,454 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== SORTED NODES
+2022-11-08 22:03:57,454 +0100 [main] DEBUG (Logger.java:82) - [Graph] ====== END SORTED NODES
+2022-11-08 22:03:57,464 +0100 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/wojciechlukomski/Desktop/Automation/src/test/resources/testng.xml
+
